@@ -12,6 +12,8 @@ iOS快捷指令，基于Open-Meteo，查询实时天气情况。
 > Open-Meteo官网：https://open-meteo.com/
 
 ## 安装方法
+*点击链接导入快捷指令：https://www.icloud.com/shortcuts/d6bd6d407cf44c24a5016bf0a944de5f
+
 1. 下载 `实时天气.shortcut`
 2. 在iPhone「文件」App点击该文件，自动导入快捷指令
 3. 首次运行：允许位置权限，允许不受信任快捷指令
